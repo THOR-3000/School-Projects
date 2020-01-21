@@ -1,1 +1,1 @@
-# School-Projects
+Student Management System
